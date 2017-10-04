@@ -113,6 +113,10 @@
   <ItemGroup>
     <ClCompile Include="Skyelar_Craver_OOP_Lab_4.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="lab4out.txt" />
+    <Text Include="lab4algorithm.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
